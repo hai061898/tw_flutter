@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "637626700470",
+    "project_id": "twitch-ef01f",
+    "storage_bucket": "twitch-ef01f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:637626700470:android:abf561671ffea18d59cc17",
+        "android_client_info": {
+          "package_name": "com.example.twitch_clone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "637626700470-2olg3vt2367nl0uhj49qvbqi2h9a1msc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.twitch_clone",
+            "certificate_hash": "2dffdebae4839bf8fc75069018fcbd5be4e44ee0"
+          }
+        },
+        {
+          "client_id": "637626700470-0msaof5t7tdu97ifevluqokuojmpubej.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDrtNKOtNVk6ikn3iqQZbzaIgXV9JzrlE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "637626700470-0msaof5t7tdu97ifevluqokuojmpubej.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
